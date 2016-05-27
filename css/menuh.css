@@ -1,0 +1,13 @@
+.menu {
+  padding-left: 0;
+  margin-top: 0;
+  margin-bottom: 0;
+  list-style: none;
+  background: none;
+  display: flex;
+}
+
+.menu .link-menu {
+  color: #fff;
+  text-decoration: none;
+}
